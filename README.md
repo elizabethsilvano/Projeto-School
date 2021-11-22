@@ -11,12 +11,6 @@ pip install django djangorestframework django-cors-headers
 python manage.py runserver
 ```
 
-
-### Run backend
-
-```
-```
-
 # Instruções para rodar o Frontend
 
 ```
