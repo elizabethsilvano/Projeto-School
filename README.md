@@ -6,18 +6,15 @@ cd Backend
 ```
 ```
 virtualenv .env
-```
-```
 source .env/bin/activate
-```
-```
 pip install django djangorestframework django-cors-headers
+python manage.py runserver
 ```
+
 
 ### Run backend
 
 ```
-python manage.py runserver
 ```
 
 # Instruções para rodar o Frontend
