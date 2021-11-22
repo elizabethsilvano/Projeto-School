@@ -40,8 +40,4 @@ npm run serve
 ```
 npm run build
 ```
-# Projeto-WEB2
-# Projeto-School
-# Projeto-School
-# Projeto-School
-# Projeto-School
+
