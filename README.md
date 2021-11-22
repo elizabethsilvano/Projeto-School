@@ -29,7 +29,7 @@ cd Frontend
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run frontend
 
 ```
 npm run serve
