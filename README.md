@@ -14,7 +14,7 @@ source .env/bin/activate
 pip install django djangorestframework django-cors-headers
 ```
 
-## Run backend
+### Run backend
 
 ```
 python manage.py runserver
@@ -29,7 +29,7 @@ cd Frontend
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run frontend
 
 ```
 npm run serve
@@ -40,8 +40,4 @@ npm run serve
 ```
 npm run build
 ```
-# Projeto-WEB2
-# Projeto-School
-# Projeto-School
-# Projeto-School
-# Projeto-School
+
