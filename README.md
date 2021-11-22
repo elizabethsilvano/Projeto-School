@@ -2,7 +2,7 @@
 # Instruções para rodar o Backend
 
 ```
-cd Backend
+cd Projeto-School/Backend
 ```
 ```
 virtualenv .env
