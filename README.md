@@ -14,7 +14,7 @@ source .env/bin/activate
 pip install django djangorestframework django-cors-headers
 ```
 
-## Run backend
+### Run backend
 
 ```
 python manage.py runserver
